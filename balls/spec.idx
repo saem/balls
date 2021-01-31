@@ -1,0 +1,23 @@
+hasDefects	balls/spec.html#hasDefects	spec: hasDefects	
+ballsDry	balls/spec.html#ballsDry	spec: ballsDry	
+onCI	balls/spec.html#onCI	spec: onCI	
+testable	balls/spec.html#testable	spec: testable	
+emojiStack	balls/spec.html#emojiStack	spec: emojiStack	
+emojiSource	balls/spec.html#emojiSource	spec: emojiSource	
+None	balls/spec.html#None	StatusKind.None	
+Info	balls/spec.html#Info	StatusKind.Info	
+Pass	balls/spec.html#Pass	StatusKind.Pass	
+Skip	balls/spec.html#Skip	StatusKind.Skip	
+Part	balls/spec.html#Part	StatusKind.Part	
+Fail	balls/spec.html#Fail	StatusKind.Fail	
+Died	balls/spec.html#Died	StatusKind.Died	
+Oops	balls/spec.html#Oops	StatusKind.Oops	
+StatusKind	balls/spec.html#StatusKind	spec: StatusKind	
+FailError	balls/spec.html#FailError	spec: FailError	
+SkipError	balls/spec.html#SkipError	spec: SkipError	
+ExpectedError	balls/spec.html#ExpectedError	spec: ExpectedError	
+Test	balls/spec.html#Test	spec: Test	
+totalTests	balls/spec.html#totalTests	spec: totalTests(): int	
+init	balls/spec.html#init,Test,string,NimNode	spec: init(test: var Test; name: string; code: NimNode)	
+dollar	balls/spec.html#dollar,NimNode	spec: dollar(n: NimNode): NimNode	
+flushStderr	balls/spec.html#flushStderr	spec: flushStderr()	

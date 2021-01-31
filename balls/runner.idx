@@ -1,0 +1,29 @@
+ballsFailFast	balls/runner.html#ballsFailFast	runner: ballsFailFast	
+c	balls/runner.html#c	Compiler.c	
+cpp	balls/runner.html#cpp	Compiler.cpp	
+js	balls/runner.html#js	Compiler.js	
+Compiler	balls/runner.html#Compiler	runner: Compiler	
+debug	balls/runner.html#debug	Optimizer.debug	
+release	balls/runner.html#release	Optimizer.release	
+danger	balls/runner.html#danger	Optimizer.danger	
+Optimizer	balls/runner.html#Optimizer	runner: Optimizer	
+refc	balls/runner.html#refc	MemModel.refc	
+markAndSweep	balls/runner.html#markAndSweep	MemModel.markAndSweep	
+arc	balls/runner.html#arc	MemModel.arc	
+orc	balls/runner.html#orc	MemModel.orc	
+vm	balls/runner.html#vm	MemModel.vm	
+MemModel	balls/runner.html#MemModel	runner: MemModel	
+Matrix	balls/runner.html#Matrix	runner: Matrix	
+Profile	balls/runner.html#Profile	runner: Profile	
+hash	balls/runner.html#hash,Profile	runner: hash(p: Profile): Hash	
+cmp	balls/runner.html#cmp,Profile,Profile	runner: cmp(a, b: Profile): int	
+`&lt;`	balls/runner.html#<,Profile,Profile	runner: `&lt;`(a, b: Profile): bool	
+`==`	balls/runner.html#==,Profile,Profile	runner: `==`(a, b: Profile): bool	
+contains	balls/runner.html#contains,Matrix,Profile	runner: contains(matrix: Matrix; p: Profile): bool	
+matrixTable	balls/runner.html#matrixTable,Matrix	runner: matrixTable(matrix: Matrix): string	
+hints	balls/runner.html#hints,Profile,bool	runner: hints(p: Profile; ci: bool): string	
+perform	balls/runner.html#perform,Profile	runner: perform(p: var Profile): StatusKind	
+perform	balls/runner.html#perform,Matrix,seq[Profile]	runner: perform(matrix: var Matrix; profiles: seq[Profile])	
+profiles	balls/runner.html#profiles,string	runner: profiles(fn: string): seq[Profile]	
+ordered	balls/runner.html#ordered,string	runner: ordered(directory: string; testsOnly = true): seq[string]	
+main	balls/runner.html#main,string	runner: main(directory: string; fallback = false)	

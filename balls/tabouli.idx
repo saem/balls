@@ -1,0 +1,2 @@
+Tabouli	balls/tabouli.html#Tabouli	tabouli: Tabouli	
+render	balls/tabouli.html#render,Tabouli,int	tabouli: render(t: Tabouli; size = 1): string	

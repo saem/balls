@@ -1,0 +1,24 @@
+Styling	balls/style.html#Styling	style: Styling	
+`&amp;`	balls/style.html#&,Styling,Styling	style: `&amp;`(a, b: Styling): Styling	
+`&amp;`	balls/style.html#&,Styling,string	style: `&amp;`(a: Styling; b: string): Styling	
+`&amp;`	balls/style.html#&,string,Styling	style: `&amp;`(a: string; b: Styling): Styling	
+resetStyle	balls/style.html#resetStyle	style: resetStyle	
+resultsStyle	balls/style.html#resultsStyle	style: resultsStyle	
+informStyle	balls/style.html#informStyle	style: informStyle	
+commentStyle	balls/style.html#commentStyle	style: commentStyle	
+lineNumStyle	balls/style.html#lineNumStyle	style: lineNumStyle	
+partialStyle	balls/style.html#partialStyle	style: partialStyle	
+successStyle	balls/style.html#successStyle	style: successStyle	
+oopsStyle	balls/style.html#oopsStyle	style: oopsStyle	
+failureStyle	balls/style.html#failureStyle	style: failureStyle	
+skippedStyle	balls/style.html#skippedStyle	style: skippedStyle	
+exceptionStyle	balls/style.html#exceptionStyle	style: exceptionStyle	
+sourceStyle	balls/style.html#sourceStyle	style: sourceStyle	
+viaProcStyle	balls/style.html#viaProcStyle	style: viaProcStyle	
+viaFileStyle	balls/style.html#viaFileStyle	style: viaFileStyle	
+headerStyle	balls/style.html#headerStyle	style: headerStyle	
+leaderStyle	balls/style.html#leaderStyle	style: leaderStyle	
+statusStyles	balls/style.html#statusStyles	style: statusStyles	
+useColor	balls/style.html#useColor	style: useColor(): bool	
+`$`	balls/style.html#$,Styling	style: `$`(style: Styling): string	
+`&amp;`	balls/style.html#&,Styling,NimNode	style: `&amp;`(style: Styling; n: NimNode): NimNode	
